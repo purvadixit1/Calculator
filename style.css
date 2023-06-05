@@ -1,0 +1,40 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Piazzolla:wght@900&display=swap');
+
+
+html {
+  height: 100%;
+  width: 100%;
+ font-family: 'Piazzolla', serif;
+}
+.button{
+  width: 66px;
+  padding: 20px;
+  margin: 0px 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+  
+}
+.button:hover{
+  color: red;
+  background-color: #fff;
+}
+
+.row{
+  margin: 8px 0px;
+}
+.input {
+  font-size: 23px;
+    padding: 5px 0px;
+    margin: 0px 0px;
+  border-radius: 6px;
+  background-color: #f4d7d7;
+}
+.input:hover{
+color: ;
+  
+}
+#i{
+  background-color: #ff9500
+}
